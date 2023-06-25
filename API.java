@@ -10,7 +10,7 @@ public class API {
 
         String postcode = "1063BW";
         String huisnummer = "48";
-        String API = "31716eb2-d459-4bc8-8e96-d9ced1e7c4a1";
+        String API = "3171s3d4f6eb2-d259sdf-4b5c8-8e996-d9cedsdf31e7c4a41";
 
         try {
             String APIlink = "https://postcode.tech/api/v1/postcode/full?postcode=" + postcode + "&number="
